@@ -1,0 +1,21 @@
+body {
+  background: darkslategray;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+.image {
+  max-width: 100%;
+}
+.nav-link {
+  color: black;
+}
+#email {
+    color: aliceblue;
+}
